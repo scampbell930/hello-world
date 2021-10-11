@@ -1,2 +1,3 @@
 # hello-world
-For the GitHub Lab
+
+My name is Sean and I am 1828.8 millimeters tall.
